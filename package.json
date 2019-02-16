@@ -1,0 +1,25 @@
+{
+  "name": "r-aafb-teams-header",
+  "version": "1.0.0",
+  "description": "header for team sites",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmphry/prototyping.git"
+  },
+  "keywords": [
+    "HMPHRY",
+    "raafb"
+  ],
+  "author": "HMPHRY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reddit-aafb/teams-header"
+  },
+  "homepage": "https://github.com/reddit-aafb/teams-header#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
